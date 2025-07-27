@@ -86,7 +86,7 @@ body{
         align-items: center;
         text-align: center;
         color: #fff;
-        font-size: 8px;
+        font-size: 10px;
         gap: 0px;
         margin-top: 30px;
     }
@@ -97,20 +97,20 @@ body{
         border-radius: 0px;
     }
     .profile p{
-        font-size: 10px;
+        font-size: 12px;
         /* padding: 6px 10px; */
         /* border: solid white 1px; */
         border-radius: 0px;
     }
     .link{
-        font-size: 15px;
-        padding: 6px 8px;
+        font-size: 16px;
+        padding: 6px 10px;
     }
     .icon{
-    font-size: 12px;
+    font-size: 18px;
     }
     .fa-link{
-        font-size: 8px;
+        font-size: 10px;
     }
     .foot{
         font-size: 10px;
